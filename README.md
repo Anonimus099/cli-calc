@@ -32,9 +32,10 @@ This project is designed for educational purposes, helping you practice C progra
 
 Clone the repository:
 
-`bash
+```bash
 git clone https://github.com/Anonimus099/cli-calc.git
 cd cli-calc/c-program
+```
 
 Compile the program: gcc main.c -o calculator
 
