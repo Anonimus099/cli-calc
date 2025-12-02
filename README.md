@@ -16,14 +16,15 @@ This project is designed for educational purposes, helping you practice C progra
 
 ## 🛠️ Technologies
 
-### - C language  
-### - GCC (or any standard C compiler)  
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 
 ## 📁 Project Structure
-### c-program/
-### ├─ main.c # Source code of the calculator
-### ├─ .gitignore # Ignores binaries and temporary files
-### └─ README.md # This file
+```
+ c-program/
+ ├─ main.c         # Source code of the calculator
+ ├─ .gitignore     # Ignores binaries and temporary files
+ └─ README.md      # This file
+```
 
 
 > The `main.exe` file is intentionally excluded from the repository using `.gitignore`.
